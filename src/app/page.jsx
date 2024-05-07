@@ -1,7 +1,7 @@
-import TopBar from "@/components/TopBar";
-import FollowingCategories from "@/components/FollowingCategories";
-import Feed from "@/components/Feed"
-import SideBar from "@/components/SideBar";
+import TopBar from "@/components/headers/TopBar";
+import FollowingCategories from "@/components/home/FollowingCategories";
+import Feed from "@/components/feed/Feed"
+import SideBar from "@/components/home/SideBar";
 
 export default function Home() {
     return (

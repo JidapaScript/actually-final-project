@@ -1,4 +1,4 @@
-import TopicCard from "@/components/TopicCard";
+import TopicCard from "@/components/feed/TopicCard";
 
 export default function FirstColumn() {
     return (

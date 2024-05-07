@@ -1,4 +1,4 @@
-import TopicCategories from "./TopicCategories";
+import TopicCategories from "../feed/TopicCategories";
 
 export default function FollowingCategories() {
     return (
