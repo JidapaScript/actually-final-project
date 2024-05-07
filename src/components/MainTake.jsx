@@ -25,8 +25,8 @@ export default function MainTake(){
                 </div>
             </div>
             <div className="take-engagement flex-row justify-end space-x-8">
-                <a href="#"> <img className="icon-like" src="/icons/thumbs_up.svg"/> </a>
-                <a href="#"> <img className="icon-dislike" src="/icons/thumbs_down.svg"/> </a>
+                <a href="#"> <img className="icon-like" src="/icons/thumb_up.svg"/> </a>
+                <a href="#"> <img className="icon-dislike" src="/icons/thumb_down.svg"/> </a>
                 <a href="#"> <img className="icon-take" src="/icons/chat_bubble.svg"/> </a>
                 <h6 className="text-sm text-white font-normal">328</h6>
             </div>

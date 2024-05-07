@@ -28,8 +28,8 @@ export default function OppTake(){
             <div className="take-info flex-row justify-between">
                 <h5 className="but-user text-base text-white font-normal">Luigi Mario</h5>
                 <div className="but-engagement flex-row justify-end space-x-8">
-                    <a href="#"> <img className="icon-like" src="/icons/thumbs_up.svg"/> </a>
-                    <a href="#"> <img className="icon-dislike" src="/icons/thumbs_down.svg"/> </a>
+                    <a href="#"> <img className="icon-like" src="/icons/thumb_up.svg"/> </a>
+                    <a href="#"> <img className="icon-dislike" src="/icons/thumb_down.svg"/> </a>
                     <a href="#"> <img className="icon-take" src="/icons/chat_bubble.svg"/> </a>
                     <h6 className="text-sm text-white font-normal">27</h6>
                 </div>
