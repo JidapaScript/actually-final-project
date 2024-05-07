@@ -1,8 +1,8 @@
-import TopicCategories from "../feed/TopicCategories";
+import TopicCategories from "./TopicCategories";
 
 export default function FollowingCategories() {
     return (
-        <div className="category-follow flex-row justify-center space-x-42">
+        <div className="category-follow flex flex-row justify-center space-x-10">
             <TopicCategories categoryname="For You"/>
             <TopicCategories categoryname="Following"/>
             <TopicCategories categoryname="Global"/>

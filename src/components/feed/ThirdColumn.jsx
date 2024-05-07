@@ -2,7 +2,7 @@ import TopicCard from "@/components/feed/TopicCard";
 
 export default function ThirdColumn() {
     return (
-        <div className="third-column flex-column justify-start space-y-30">
+        <div className="third-column flex flex-column justify-start space-y-8">
               <TopicCard
                 featureimage="/images/robot.png"
                 title="Can humans fall 

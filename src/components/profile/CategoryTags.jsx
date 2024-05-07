@@ -2,7 +2,7 @@ import Tag from "@/components/profile/Tag";
 
 export default function TopicCategories(){
     return (
-        <div className="flex-row justify-end space-x-8">
+        <div className="flex flex-row justify-end space-x-2">
             <Tag tagname="Favourite" />
             <Tag tagname="Food" />
             <Tag tagname="Science" />

@@ -1,6 +1,6 @@
 export default function TopBar(){
     return (
-        <div className="flex-row justify-between w-full mx-20 my-12">
+        <div className="flex flex-row justify-between w-full mx-5 my-3">
             <a href="/profile" className="profile-sm"> 
             <img className="profile-img-sm" src="/profiles/profile_sm.png" alt="profile" /> 
             </a>

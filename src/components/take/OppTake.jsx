@@ -1,8 +1,8 @@
 export default function OppTake(){
     return (
-        <div className="take-against flex-column justify-items-end space-y-94 w-1/4 px-23 py-30 bg-transparent border-white border-1">
-            <div className="take-but-content flex-column justify-start space-y-33">
-                <div className="but-actually flex-row justify-start space-x-20">
+        <div className="take-against flex flex-column justify-items-end space-y-94 w-1/4 px-23 py-30 bg-transparent border-white border-1">
+            <div className="take-but-content flex flex-column justify-start space-y-33">
+                <div className="but-actually flex flex-row justify-start space-x-20">
                     <a href="#" className="profile-other"> 
                         <img className="profile-luigi" src="/profiles/profile_other.png" alt="luigi profile" /> 
                     </a>
@@ -25,9 +25,9 @@ export default function OppTake(){
                     mozzarella cheese and fragrant...
                 </h6>
             </div>
-            <div className="take-info flex-row justify-between">
+            <div className="take-info flex flex-row justify-between">
                 <h5 className="but-user text-base text-white font-normal">Luigi Mario</h5>
-                <div className="but-engagement flex-row justify-end space-x-8">
+                <div className="but-engagement flex flex-row justify-end space-x-8">
                     <a href="#"> <img className="icon-like" src="/icons/thumb_up.svg"/> </a>
                     <a href="#"> <img className="icon-dislike" src="/icons/thumb_down.svg"/> </a>
                     <a href="#"> <img className="icon-take" src="/icons/chat_bubble.svg"/> </a>

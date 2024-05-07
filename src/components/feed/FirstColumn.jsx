@@ -2,7 +2,7 @@ import TopicCard from "@/components/feed/TopicCard";
 
 export default function FirstColumn() {
     return (
-        <div className="first-column flex-column justify-start space-y-30">
+        <div className="first-column flex flex-column justify-start space-y-8">
             <TopicCard
                 featureimage="/images/pets.png"
                 title="Are cats or dogs 

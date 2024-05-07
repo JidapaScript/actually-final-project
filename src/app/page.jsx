@@ -8,8 +8,8 @@ export default function Home() {
       <div className="flex-column">
         <TopBar />
         <FollowingCategories />
-        <hr className="divider-line w-full h-px mt-16 mb-42 bg-white"/>
-        <div className="feed-content flex-row justify-between mx-36">
+        <hr className="divider-line w-full h-px mt-4 mb-10 bg-white"/>
+        <div className="feed-content flex-row justify-between mx-9">
           <Feed />
           <SideBar />
         </div>

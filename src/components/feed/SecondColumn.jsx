@@ -2,7 +2,7 @@ import TopicCard from "@/components/feed/TopicCard";
 
 export default function SecondColumn() {
     return (
-        <div className="second-column flex-column justify-start space-y-30">
+        <div className="second-column flex flex-column justify-start space-y-8">
             <TopicCard
                 featureimage="/images/ghost.png"
                 title="Are ghosts real?"
