@@ -13,7 +13,7 @@ export default function Take() {
             <h3 className="category text-2xl text-gunsmoke-400 font-semibold">FOOD</h3>
             <h1 className="take-headline text-4xl text-white font-semibold">Does Pineapple belong on pizza?</h1>
         </title>
-        <tags className="flex flex-row justify-end space-x-0.5">
+        <tags className="flex flex-row justify-end space-x-2">
             <Tag tagname="Trending" />
             <Tag tagname="Food" />
             <Tag tagname="Culture" />
