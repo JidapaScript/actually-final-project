@@ -6,7 +6,7 @@ export default function MainTake(){
                     <a href="/profile" className="profile"> 
                         <img className="profile-pic-md" src="/profiles/profile_md.png" alt="profile" /> 
                     </a>
-                    <div className="take-content flex flex-col justify-start space-y-9 w-[785px]">
+                    <div className="take-content flex flex-col justify-start space-y-9 w-[785px] p-8">
                         <h1 className="text-4xl text-white text-pretty font-semibold">Yes! Pineapple creates a sweet and sour flavour profile.</h1>
                         <h6 className="text-base text-white text-pretty font-normal">
                             Pineapple lends a distinct sweet and sour flavor profile to Hawaiian pizza due to its natural composition.
