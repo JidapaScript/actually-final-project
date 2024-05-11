@@ -9,7 +9,7 @@ export default function TopicCard(props) {
             <h1 className="topic-title text-4xl text-pretty w-[311px] font-semibold text-white">{props.title}</h1>
           </a>
           <div className="card-engagement flex flex-row justify-start space-x-3.5">
-            <div className="flex flex-row justify-start space-x-2">
+            <div className="flex flex-row justify-start items-center space-x-2">
               <a href="#"> <img className="icon-take" src="/icons/chat_bubble.svg"/> </a>
               <h5 className="topic-takes text-sm font-normal">{props.takecount}</h5>
             </div>

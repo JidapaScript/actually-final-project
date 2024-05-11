@@ -1,6 +1,6 @@
 export default function MainTake(){
     return (
-        <div className="take-for flex flex-col justify-items-end w-3/4 space-y-72 bg-transparent border-white border-2">
+        <div className="take-for flex flex-col justify-items-end w-3/4 space-y-72 px-6 py-7 bg-transparent border-white border">
             <div className="take-post flex flex-row justify-start space-x-9">
                 <div className="profile flex flex-row justify-start space-x-5">
                     <a href="/profile" className="profile"> 

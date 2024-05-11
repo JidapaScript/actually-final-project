@@ -1,6 +1,6 @@
 export default function AddTopic() {
     return (
-      <div className="todays-topic flex flex-col justify-start space-y-9 p-5 bg-transparent border-white border-2">
+      <div className="todays-topic flex flex-col justify-start space-y-9 p-5 bg-transparent border-white border">
         <h5 className="text-white text-base font-semibold">What's on your mind?</h5>
         <img className="profile-friends px-3" src="/profiles/friends.png" alt="Your Friends"/>
         <button className="add-your flex flex-row justify-center px-3 py-1 mt-6 bg-white">

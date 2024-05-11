@@ -9,7 +9,7 @@ export default function Home() {
         <TopBar />
         <FollowingCategories />
         <hr className="divider-line w-full h-px mt-4 mb-10 bg-white"/>
-        <div className="feed-content flex flex-row justify-between mx-9">
+        <div className="feed-content flex flex-row justify-between space-x-16 mx-9">
           <Feed />
           <SideBar />
         </div>

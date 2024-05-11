@@ -10,7 +10,7 @@ export default function Take() {
       <hr className="divider-line w-full h-px mt-3 bg-white"/>
       <div className="flex flex-row justify-between mx-9 my-6">
         <div className="heading flex flex-col justify-start space-y-1">
-            <h3 className="category text-2xl text-gunsmoke-400 font-semibold">FOOD</h3>
+            <h3 className="category text-2xl !text-gunsmoke-400 font-semibold">FOOD</h3>
             <h1 className="take-headline text-4xl text-white font-semibold">Does Pineapple belong on pizza?</h1>
         </div>
         <div className="flex flex-row justify-end space-x-2">
